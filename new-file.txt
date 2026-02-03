@@ -1,0 +1,6 @@
+
+
+ls ~/.ssh
+
+ls -la ~ | grep github-25c
+
